@@ -57,12 +57,6 @@ JPype1==1.2.1
 jupyter-client==6.1.12
 jupyter-core==4.7.1
 keyboard==0.13.5
-Kivy==2.0.0
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
-kivymd==0.104.2
 lazy-object-proxy==1.6.0
 loguru==0.5.3
 lxml==4.6.3
