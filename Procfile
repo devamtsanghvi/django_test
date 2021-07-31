@@ -1,1 +1,1 @@
-web: DJANGO_TEST.wsgi --log-file -
+web: gunicorn userproject.wsgi --log-file -
