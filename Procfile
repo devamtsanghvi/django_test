@@ -1,1 +1,1 @@
-web: DJANGO_TEST.wsgi.py --log-file -
+web: DJANGO_TEST.wsgi --log-file -
